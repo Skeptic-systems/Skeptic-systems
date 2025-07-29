@@ -12,7 +12,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Skeptic-systems&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Skeptic-systems&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Skeptic-systems&icon=0&color=0)](https://visitcount.itsvg.in) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skeptic-systems&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
