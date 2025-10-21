@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRjbmlrN2hrazZjbTR6eGN5bTl4aXlub2E3bmxteDJ0eXdpbDR3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzH4wcwMH76Hc8FjvZ/giphy.gif"  />
+  <img height="150" src="./assets/Skeptic-Systems.gif" />
 </div>
 
 ###
