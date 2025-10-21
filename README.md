@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="./assets/Skeptic-Systems.gif" />
+  <img height="150" src="./assets/Skeptic-Systems2.gif" />
 </div>
 
 ###
