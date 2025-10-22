@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="./assets/Skeptic-Systems2.gif" />
+  <img height="250" src="./assets/Skeptic-Systems.gif" />
 </div>
 
 ###
@@ -70,6 +70,34 @@
 
 ###
 
+
+
+
+
+
+
+
+<div align="center">
+  <img width="12" />
+  <img src="./assets/tabby.png" height="40" alt="tabby logo"  />
+  <img width="12" />
+  <img src="./assets/tableplus.png" height="40" alt="tableplus logo"  />
+  <img width="12" />
+  <img src="./assets/cursor.png" height="40" alt="tableplus logo"  />
+  <img width="12" />
+  <img src="./assets/podmandesktop.png" height="40" alt="podmandesktop logo"  />
+  <img width="12" />
+  <img src="./assets/lmstudio.png" height="40" alt="lmstudio logo"  />
+    <img width="12" />
+  <img src="./assets/tauri.png" height="40" alt="tauri logo"  />
+</div>
+
+
+
+
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
@@ -77,9 +105,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
 </div>
 
 ###
