@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="center">✦ I’m a Systemintegrator and Fullstack Dev 
+<h3 align="center">✦ I’m a Systemintegrator and Developer 
 ✦<br>✦ I have a passion for coding and exploring new technologies. ✦<br>✦ Always learning and building cool stuff. ✦</h3>
 
 ###
