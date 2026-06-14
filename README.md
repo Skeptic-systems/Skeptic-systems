@@ -7,15 +7,9 @@
 ###
 
 <div align="center">
-  <a href="https://discordapp.com/users/__skeptic__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=5865F2&labelColor=000000&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="mailto:github@jonas-vieth.de" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact&logo=mailgun&label=&color=000000&logoColor=00E5B0&labelColor=000000&style=for-the-badge" height="25" alt="mail logo"  />
-  </a>
-  <a href="https://buymeacoffee.com/dervieth1l" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=A%20Coffee?&logo=ko-fi&label=&color=000000&logoColor=FF5E5B&labelColor=000000&style=for-the-badge" height="25" alt="ko-fi logo"  />
-  </a>
+  <a href="https://discordapp.com/users/__skeptic__" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=5865F2&labelColor=000000&style=for-the-badge" height="25" alt="discord logo"></a>
+  <a href="mailto:github@jonas-vieth.de" target="_blank"><img src="https://img.shields.io/static/v1?message=Contact&logo=mailgun&label=&color=000000&logoColor=00E5B0&labelColor=000000&style=for-the-badge" height="25" alt="mail logo"></a>
+  <a href="https://buymeacoffee.com/dervieth1l" target="_blank"><img src="https://img.shields.io/static/v1?message=A%20Coffee?&logo=ko-fi&label=&color=000000&logoColor=FF5E5B&labelColor=000000&style=for-the-badge" height="25" alt="ko-fi logo"></a>
 </div>
 
 ###
@@ -26,11 +20,24 @@
 
 ###
 
-<h1 align="center">✦ Skeptic - Systems ✦</h1>
+<div align="center">
+  <font size="7"><b>✦ Skeptic - Systems ✦</b></font>
+</div>
 
-<h2 align="center">Hey there, I'm Jonas! <img src="./assets/waving-hand.gif" height=20></img></h2>
-<h3 align="center">✦ I’m a Systemintegrator and Developer 
-✦<br>✦ I have a passion for coding and exploring new technologies. ✦<br>✦ Always learning and building cool stuff. ✦</h3>
+<br>
+
+<div align="center">
+  <font size="5"><b>Hey there, I'm Jonas!</b></font>
+  <img src="./assets/waving-hand.gif" height="24">
+</div>
+
+<div align="center">
+  <font size="4">
+    <b>✦ I’m a Systemintegrator and Developer ✦</b><br>
+    <b>✦ I have a passion for coding and exploring new technologies. ✦</b><br>
+    <b>✦ Always learning and building cool stuff. ✦</b>
+  </font>
+</div>
 
 ###
 <img src="./assets/line-neon.gif" width="100%" height="4px">
@@ -106,8 +113,6 @@
 
 ###
 
-<h2 align="left"></h2>
-
 ###
 <img src="./assets/line-neon.gif" width="100%" height="4px">
 <h3 align="center">✦ STATS ✦</h3>
@@ -122,9 +127,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Skeptic-systems/Skeptic-systems/output/github-snake-dark.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left"></h2>
 
 ###
