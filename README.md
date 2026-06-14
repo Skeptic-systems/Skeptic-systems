@@ -28,14 +28,9 @@
 
 <h1 align="center">✦ Skeptic - Systems ✦</h1>
 
-###
 <h2 align="center">Hey there, I'm Jonas! <img src="./assets/waving-hand.gif" height=20></img></h2>
 <h3 align="center">✦ I’m a Systemintegrator and Developer 
 ✦<br>✦ I have a passion for coding and exploring new technologies. ✦<br>✦ Always learning and building cool stuff. ✦</h3>
-
-###
-
-<h2 align="left"></h2>
 
 ###
 <img src="./assets/line-neon.gif" width="100%" height="4px">
