@@ -21,17 +21,12 @@
 ###
 
 <div align="center">
-  <img src="./assets/title.svg" alt="Skeptic - Systems" height="48">
+  <img src="./assets/title.svg" alt="Skeptic - Systems" height="58">
 </div>
-
-<br>
 
 <div align="center">
-  <img src="./assets/subtitle.svg" alt="Hey there, I'm Jonas!" height="32">
-  <img src="./assets/waving-hand.gif" height="24">
+  <img src="./assets/subtitle.svg" alt="Hey there, I'm Jonas!" height="38"><img src="./assets/waving-hand.gif" height="28">
 </div>
-
-<br>
 
 <div align="center">
   <b>✦ I’m a Systemintegrator and Developer ✦</b><br>
