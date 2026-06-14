@@ -21,22 +21,22 @@
 ###
 
 <div align="center">
-  <font size="7"><b>✦ Skeptic - Systems ✦</b></font>
+  <img src="./assets/title.svg" alt="Skeptic - Systems" height="48">
 </div>
 
 <br>
 
 <div align="center">
-  <font size="5"><b>Hey there, I'm Jonas!</b></font>
+  <img src="./assets/subtitle.svg" alt="Hey there, I'm Jonas!" height="32">
   <img src="./assets/waving-hand.gif" height="24">
 </div>
 
+<br>
+
 <div align="center">
-  <font size="4">
-    <b>✦ I’m a Systemintegrator and Developer ✦</b><br>
-    <b>✦ I have a passion for coding and exploring new technologies. ✦</b><br>
-    <b>✦ Always learning and building cool stuff. ✦</b>
-  </font>
+  <b>✦ I’m a Systemintegrator and Developer ✦</b><br>
+  <b>✦ I have a passion for coding and exploring new technologies. ✦</b><br>
+  <b>✦ Always learning and building cool stuff. ✦</b>
 </div>
 
 ###
