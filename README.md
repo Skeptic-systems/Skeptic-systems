@@ -67,13 +67,6 @@
 
 ###
 
-
-
-
-
-
-
-
 <div align="center">
   <img width="12" />
   <img src="./assets/tabby.png" height="40" alt="tabby logo"  />
@@ -122,5 +115,9 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Skeptic-systems/Skeptic-systems/output/github-snake-dark.svg" alt="Snake animation" />
+
+###
+
+<img src="./assets/line-neon.gif" width="100%" height="4px">
 
 ###
