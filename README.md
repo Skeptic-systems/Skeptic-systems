@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <b>✦ I’m a Systemintegrator and Developer ✦</b><br>
+  <b>✦ I’m a Systemengineer and Developer ✦</b><br>
   <b>✦ I have a passion for coding and exploring new technologies. ✦</b><br>
   <b>✦ Always learning and building cool stuff. ✦</b>
 </div>
